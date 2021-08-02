@@ -1,12 +1,10 @@
-### Hi I'm Armin 👋 
+# Hi, I'm Armin 👋 
 
+I'm a third Computer Science student at the [University of British Columbia](https://www.ubc.ca/). I'm going on 8-month internship in fall as a Software developer at [Alida](https://www.alida.com/)
 
+*Learn more about me on my [website](https://www.armintalaie.com/)*
 
-- 4th term at the University of British Columbia
-- I’m currently learning more about Full-stack development
-- I’m looking to collaborate on machine learning
-- How to reach me: 
-  - email: talaiearmin78@gmail.com
-  - LinkedIn: armintalaie
-- Pronouns: He/Him
+I'm interested in software engineering, full-stack developement, game development, research and design.
 
+## Get in touch
+Always looking to find interesting people. If you want to chat or work on a project email me at [armin11@student.ubc.ca](mailto:armin11@student.ubc.ca)
